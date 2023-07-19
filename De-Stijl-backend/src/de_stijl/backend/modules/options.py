@@ -15,7 +15,7 @@ class Options():
         parser.add_argument('--hint_sparsity', type=float, default=20, help='hint sparsity from 0 to 1')
         # extra configurations
         parser.add_argument('--ckpt_dir', type=str, default='/home/xinyu_shi/Documents/de-stijl/De-Stijl-backend/checkpoints', help='checkpoint_path')
-
+        # change to your path
         self.initialized = True
         return parser
 

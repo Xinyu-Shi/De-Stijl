@@ -7,7 +7,7 @@ This is the code repository for the paper [De-Stijl: Facilitating Graphics Desig
 ## Steps to run the code
 ```
 git clone https://github.com/Xinyu-Shi/De-Stijl.git
-cd de-stijl
+cd De-Stijl
 ```
 
 ### Backend Preparation
@@ -41,7 +41,6 @@ python interpolator.py --ckpt_dir YOUR/CHECKPOINTS/PATH
 
 ### Run backend
 ```
-cd 
 python api.py 
 ```
 
@@ -78,3 +77,4 @@ npm start
 }
 ```
 
+If you have any questions regarding this project, feel free to contact `x98shi@uwaterloo.ca`
