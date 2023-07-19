@@ -1,0 +1,24 @@
+shapeData:
+  image:
+    train: './ads_data/08_figure_palette_middle_dom_lq/test'
+  theme:
+    train: './ads_data/06_theme/test'
+  bg:
+    train: './ads_data/11_bg_gt/test'
+  shape:
+    train: './ads_data/09_decors_gt/test'
+  gt:
+    train: './ads_data/08_figure_palette_middle_dom_gt/test'
+  target:
+    train: './ads_data/image_recommender_dataset03/test'
+
+PaletteData:
+  image:
+    train: '/home/xinyu/Research/AdsColorizer/ads_data/05_figure/train'
+    test: '/home/xinyu/Research/AdsColorizer/ads_data/05_figure/test'
+  target:
+    train: '/home/xinyu/Research/AdsColorizer/ads_data/08_figure_palette_middle_gt/train'
+    test: '/home/xinyu/Research/AdsColorizer/ads_data/08_figure_palette_middle_gt/test'
+  lq:
+    train: '/home/xinyu/Research/AdsColorizer/ads_data/08_figure_palette_middle_lq/train'
+    test: '/home/xinyu/Research/AdsColorizer/ads_data/08_figure_palette_middle_lq/test'

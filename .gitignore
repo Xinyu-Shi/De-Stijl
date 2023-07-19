@@ -1,0 +1,7 @@
+# dependencies
+De-Stijl-backend/checkpoints
+De-Stijl-frontend/app/node_modules
+
+De-Stijl-backend/src/de_stijl.egg-info
+
+*.pyc
